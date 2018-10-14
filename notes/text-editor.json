@@ -1,0 +1,326 @@
+{
+    "_disposed": false,
+    "_proxy": {},
+    "_id": "vs.editor.ICodeEditor: 1,$model1",
+    "_documentData": {
+        "_uri": {
+            "$mid": 1,
+            "fsPath": "Untitled-1",
+            "external": "untitled:Untitled-1",
+            "path": "Untitled-1",
+            "scheme": "untitled"
+        },
+        "_lines": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et. Sit amet volutpat consequat mauris nunc congue. Massa id neque aliquam vestibulum morbi. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Velit scelerisque in dictum non consectetur a erat nam. Vitae et leo duis ut diam quam nulla porttitor massa. Felis eget nunc lobortis mattis. Mi bibendum neque egestas congue quisque egestas diam in arcu. Sit amet facilisis magna etiam tempor orci. Ut diam quam nulla porttitor massa. Diam maecenas sed enim ut sem viverra aliquet eget. Nec ultrices dui sapien eget mi proin sed libero.",
+            "",
+            "Feugiat scelerisque varius morbi enim nunc faucibus. Diam maecenas sed enim ut sem viverra. Semper quis lectus nulla at volutpat diam ut venenatis. Neque ornare aenean euismod elementum nisi quis. Est sit amet facilisis magna. Libero enim sed faucibus turpis in eu mi bibendum. Turpis tincidunt id aliquet risus feugiat in ante metus. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Est ante in nibh mauris cursus mattis molestie a. Sapien et ligula ullamcorper malesuada. Ornare aenean euismod elementum nisi quis eleifend quam. Ipsum consequat nisl vel pretium. Morbi tincidunt augue interdum velit. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Proin libero nunc consequat interdum varius sit amet mattis. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Sed euismod nisi porta lorem mollis.",
+            "",
+            "Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Arcu vitae elementum curabitur vitae nunc sed velit. Elementum facilisis leo vel fringilla. Aenean sed adipiscing diam donec adipiscing. Arcu odio ut sem nulla pharetra diam sit. Sem viverra aliquet eget sit amet. Quisque id diam vel quam. Massa tempor nec feugiat nisl pretium fusce. Lorem donec massa sapien faucibus et molestie. Posuere urna nec tincidunt praesent semper feugiat. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis.",
+            "",
+            "Ultrices dui sapien eget mi. Convallis posuere morbi leo urna. Consectetur a erat nam at. Et molestie ac feugiat sed lectus vestibulum. Libero justo laoreet sit amet cursus sit amet. Sit amet consectetur adipiscing elit. Eu feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Sollicitudin nibh sit amet commodo nulla facilisi. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Cursus metus aliquam eleifend mi in nulla. Eget egestas purus viverra accumsan in nisl. Ut porttitor leo a diam sollicitudin tempor id eu. Felis imperdiet proin fermentum leo vel. Euismod elementum nisi quis eleifend. Orci dapibus ultrices in iaculis nunc sed. Eros donec ac odio tempor orci dapibus ultrices in. Duis convallis convallis tellus id interdum velit laoreet id.",
+            "",
+            "Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Arcu risus quis varius quam quisque id diam vel quam. Nulla pharetra diam sit amet nisl. Dapibus ultrices in iaculis nunc sed augue. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Risus nec feugiat in fermentum posuere. Nulla pellentesque dignissim enim sit amet. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Dui nunc mattis enim ut. Enim praesent elementum facilisis leo vel. Facilisis mauris sit amet massa vitae tortor condimentum. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique et egestas quis ipsum suspendisse. Massa enim nec dui nunc mattis enim ut tellus. Turpis massa tincidunt dui ut ornare lectus sit amet. Egestas egestas fringilla phasellus faucibus scelerisque."
+        ],
+        "_eol": "\r\n",
+        "_versionId": 2,
+        "_textLines": [
+            {
+                "lineNumber": 0,
+                "range": [
+                    {
+                        "line": 0,
+                        "character": 0
+                    },
+                    {
+                        "line": 0,
+                        "character": 721
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 0,
+                        "character": 0
+                    },
+                    {
+                        "line": 1,
+                        "character": 0
+                    }
+                ],
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et. Sit amet volutpat consequat mauris nunc congue. Massa id neque aliquam vestibulum morbi. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Velit scelerisque in dictum non consectetur a erat nam. Vitae et leo duis ut diam quam nulla porttitor massa. Felis eget nunc lobortis mattis. Mi bibendum neque egestas congue quisque egestas diam in arcu. Sit amet facilisis magna etiam tempor orci. Ut diam quam nulla porttitor massa. Diam maecenas sed enim ut sem viverra aliquet eget. Nec ultrices dui sapien eget mi proin sed libero.",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": false
+            },
+            {
+                "lineNumber": 1,
+                "range": [
+                    {
+                        "line": 1,
+                        "character": 0
+                    },
+                    {
+                        "line": 1,
+                        "character": 0
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 1,
+                        "character": 0
+                    },
+                    {
+                        "line": 2,
+                        "character": 0
+                    }
+                ],
+                "text": "",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": true
+            },
+            {
+                "lineNumber": 2,
+                "range": [
+                    {
+                        "line": 2,
+                        "character": 0
+                    },
+                    {
+                        "line": 2,
+                        "character": 914
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 2,
+                        "character": 0
+                    },
+                    {
+                        "line": 3,
+                        "character": 0
+                    }
+                ],
+                "text": "Feugiat scelerisque varius morbi enim nunc faucibus. Diam maecenas sed enim ut sem viverra. Semper quis lectus nulla at volutpat diam ut venenatis. Neque ornare aenean euismod elementum nisi quis. Est sit amet facilisis magna. Libero enim sed faucibus turpis in eu mi bibendum. Turpis tincidunt id aliquet risus feugiat in ante metus. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Est ante in nibh mauris cursus mattis molestie a. Sapien et ligula ullamcorper malesuada. Ornare aenean euismod elementum nisi quis eleifend quam. Ipsum consequat nisl vel pretium. Morbi tincidunt augue interdum velit. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Proin libero nunc consequat interdum varius sit amet mattis. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Sed euismod nisi porta lorem mollis.",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": false
+            },
+            {
+                "lineNumber": 3,
+                "range": [
+                    {
+                        "line": 3,
+                        "character": 0
+                    },
+                    {
+                        "line": 3,
+                        "character": 0
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 3,
+                        "character": 0
+                    },
+                    {
+                        "line": 4,
+                        "character": 0
+                    }
+                ],
+                "text": "",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": true
+            },
+            {
+                "lineNumber": 4,
+                "range": [
+                    {
+                        "line": 4,
+                        "character": 0
+                    },
+                    {
+                        "line": 4,
+                        "character": 608
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 4,
+                        "character": 0
+                    },
+                    {
+                        "line": 5,
+                        "character": 0
+                    }
+                ],
+                "text": "Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Arcu vitae elementum curabitur vitae nunc sed velit. Elementum facilisis leo vel fringilla. Aenean sed adipiscing diam donec adipiscing. Arcu odio ut sem nulla pharetra diam sit. Sem viverra aliquet eget sit amet. Quisque id diam vel quam. Massa tempor nec feugiat nisl pretium fusce. Lorem donec massa sapien faucibus et molestie. Posuere urna nec tincidunt praesent semper feugiat. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis.",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": false
+            },
+            {
+                "lineNumber": 5,
+                "range": [
+                    {
+                        "line": 5,
+                        "character": 0
+                    },
+                    {
+                        "line": 5,
+                        "character": 0
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 5,
+                        "character": 0
+                    },
+                    {
+                        "line": 6,
+                        "character": 0
+                    }
+                ],
+                "text": "",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": true
+            },
+            {
+                "lineNumber": 6,
+                "range": [
+                    {
+                        "line": 6,
+                        "character": 0
+                    },
+                    {
+                        "line": 6,
+                        "character": 908
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 6,
+                        "character": 0
+                    },
+                    {
+                        "line": 7,
+                        "character": 0
+                    }
+                ],
+                "text": "Ultrices dui sapien eget mi. Convallis posuere morbi leo urna. Consectetur a erat nam at. Et molestie ac feugiat sed lectus vestibulum. Libero justo laoreet sit amet cursus sit amet. Sit amet consectetur adipiscing elit. Eu feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Sollicitudin nibh sit amet commodo nulla facilisi. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Cursus metus aliquam eleifend mi in nulla. Eget egestas purus viverra accumsan in nisl. Ut porttitor leo a diam sollicitudin tempor id eu. Felis imperdiet proin fermentum leo vel. Euismod elementum nisi quis eleifend. Orci dapibus ultrices in iaculis nunc sed. Eros donec ac odio tempor orci dapibus ultrices in. Duis convallis convallis tellus id interdum velit laoreet id.",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": false
+            },
+            {
+                "lineNumber": 7,
+                "range": [
+                    {
+                        "line": 7,
+                        "character": 0
+                    },
+                    {
+                        "line": 7,
+                        "character": 0
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 7,
+                        "character": 0
+                    },
+                    {
+                        "line": 8,
+                        "character": 0
+                    }
+                ],
+                "text": "",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": true
+            },
+            {
+                "lineNumber": 8,
+                "range": [
+                    {
+                        "line": 8,
+                        "character": 0
+                    },
+                    {
+                        "line": 8,
+                        "character": 802
+                    }
+                ],
+                "rangeIncludingLineBreak": [
+                    {
+                        "line": 8,
+                        "character": 0
+                    },
+                    {
+                        "line": 8,
+                        "character": 802
+                    }
+                ],
+                "text": "Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Arcu risus quis varius quam quisque id diam vel quam. Nulla pharetra diam sit amet nisl. Dapibus ultrices in iaculis nunc sed augue. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Risus nec feugiat in fermentum posuere. Nulla pellentesque dignissim enim sit amet. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Dui nunc mattis enim ut. Enim praesent elementum facilisis leo vel. Facilisis mauris sit amet massa vitae tortor condimentum. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Tristique et egestas quis ipsum suspendisse. Massa enim nec dui nunc mattis enim ut tellus. Turpis massa tincidunt dui ut ornare lectus sit amet. Egestas egestas fringilla phasellus faucibus scelerisque.",
+                "firstNonWhitespaceCharacterIndex": 0,
+                "isEmptyOrWhitespace": false
+            }
+        ],
+        "_isDisposed": false,
+        "_proxy": {},
+        "_languageId": "plaintext",
+        "_isDirty": true,
+        "_document": {
+            "uri": {
+                "$mid": 1,
+                "fsPath": "Untitled-1",
+                "external": "untitled:Untitled-1",
+                "path": "Untitled-1",
+                "scheme": "untitled"
+            },
+            "fileName": "Untitled-1",
+            "isUntitled": true,
+            "languageId": "plaintext",
+            "version": 2,
+            "isClosed": false,
+            "isDirty": true,
+            "eol": 2,
+            "lineCount": 9
+        }
+    },
+    "_selections": [
+        {
+            "start": {
+                "line": 2,
+                "character": 33
+            },
+            "end": {
+                "line": 2,
+                "character": 51
+            },
+            "active": {
+                "line": 2,
+                "character": 51
+            },
+            "anchor": {
+                "line": 2,
+                "character": 33
+            }
+        }
+    ],
+    "_options": {
+        "_proxy": {},
+        "_id": "vs.editor.ICodeEditor: 1,$model1",
+        "_tabSize": 4,
+        "_insertSpaces": true,
+        "_cursorStyle": 1,
+        "_lineNumbers": 1
+    },
+    "_visibleRanges": [
+        [
+            {
+                "line": 0,
+                "character": 0
+            },
+            {
+                "line": 8,
+                "character": 802
+            }
+        ]
+    ],
+    "_viewColumn": 1,
+    "_hasDecorationsForKey": {}
+}
